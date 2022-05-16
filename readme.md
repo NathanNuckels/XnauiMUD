@@ -11,12 +11,14 @@ If the assembly plugin fails for some reason, try this:
 
 `Usage: java -cp target/XnauiMUD-0.0.1-INDEX.jar com.phoenix.mud.App`
 
+Javadoc is located in the reports tab of the site (target/site)
+
 # TODO
 
 Note to self: Take this with a grain of salt or you will will never finish!
-- [ ] Edit POM
-	- [ ] Add javadoc plugin
-	- [ ] Add assembly plugin (to make the jar file auto run)
+- [x] Edit POM
+	- [x] Add javadoc plugin
+	- [x] Add assembly plugin (to make the jar file auto run)
 - [ ] Create Main loop
 	- [ ] create InputParcer
 	- [ ] create Intro
