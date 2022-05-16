@@ -1,5 +1,9 @@
 # XnauiMUD
 
+![GitHub repo size](https://img.shields.io/github/repo-size/NathanNuckels/XnauiMUD)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/NathanNuckels/XnauiMUD)
+
 I have been trying to make a MUD for a WHILE now and I have finally found my mistake.
 I was useing the waterfall workflow. I did some experamenting and I much prefer the agile workflow.
 That means that I will make tiny changes to the code while still keeping it runnable instead of
